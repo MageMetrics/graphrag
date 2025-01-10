@@ -23,6 +23,8 @@ venv/
 
 .env
 build.zip
+build/
+graphrag.egg-info/
 
 .turbo
 
