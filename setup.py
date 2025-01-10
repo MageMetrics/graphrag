@@ -38,7 +38,7 @@ setup(
         "azure-storage-blob>=12.24.0",
         "future>=1.0.0",
         "typer>=0.12.0,<=0.15.1",
-        "fnllm>=0.0.10",
+        "fnllm>=0.0.10,<0.13",
         "tenacity>=9.0.0",
         "json-repair>=0.30.3",
         "tqdm>=4.67.1",
