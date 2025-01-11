@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="graphrag",
-    version="1.1.0",  # You might want to handle versioning differently
+    version="1.1.2",  # You might want to handle versioning differently
     description="GraphRAG: A graph-based retrieval-augmented generation (RAG) system.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
